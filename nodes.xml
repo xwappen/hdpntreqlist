@@ -21,17 +21,7 @@
         <protocol>binkp</protocol>
         <ipaddress>ambrosia60.dd-dns.de</ipaddress>
         <areasfull>http://ambrosia60.dd-dns.de/fidonet/areas.lst</areasfull>
-     </node>
-     <node ftnaddress="2:2452/250" requestby="email">
-        <country>Germany</country>
-        <city>Merzenich</city>
-        <system>Doene BBS</system>
-        <sysop>Dieter Schauf</sysop>
-        <email>bbs@doene.de</email>
-        <protocol>binkp</protocol>
-        <ipaddress>ftn.doene.de</ipaddress>
-        <areasfull>http://www.doene.de/down/areas.lst</areasfull>
-    </node>
+     </node>   
      <node ftnaddress="2:469/335" requestby="email">
         <country>Moldova</country>
         <city>Chisinau</city>
